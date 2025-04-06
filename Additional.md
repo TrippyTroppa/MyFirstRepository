@@ -2,4 +2,4 @@
 
 ## Измененный файл в ветке awesome-feature
 
-## Изменный файл в ветке masterAdditional.md
+## Изменный файл в ветке master
